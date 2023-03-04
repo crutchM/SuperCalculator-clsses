@@ -14,6 +14,9 @@ namespace SuperCalculator.ViewModel {
         }
 
         public ICommand OnDigitClicked => new CommandDelegate(parameter => { Value += parameter.ToString(); });
+        
+        public ICommand OnClearClicked => new CommandDelegate(parameter => { Value = String.Empty; });
+
 
         public ICommand OnActionClicked => new CommandDelegate(parameter => {
             operand = Double.Parse(Value);
