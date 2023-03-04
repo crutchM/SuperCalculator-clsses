@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlxEWUymAF5MiZs6whbc5Y06YAE/kc2YdHW7L8vjE1WX08WWvMuJN92KicQyDBBWoWT5gN35eOrtxo/3F3kXrQ==",
+  "dgSpecHash": "YA4IGJbpnhU3502kCMvEVfqmH2wVR+a7GMd8v5GmQ9mMy8cyPipHEclc0olFs0XO5M1qeq1Ggy9hENdz1idzhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\RiderProjects\\SuperCalculator\\SuperCalculator\\SuperCalculator.csproj",
+  "projectFilePath": "D:\\Projects\\dotnet\\SuperCalculator\\SuperCalculator\\SuperCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

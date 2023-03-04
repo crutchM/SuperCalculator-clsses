@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Input;
 
-namespace SuperCalculator;
+namespace SuperCalculator.Extra;
 
 public class CommandDelegate : ICommand
 {
