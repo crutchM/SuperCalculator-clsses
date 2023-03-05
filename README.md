@@ -39,5 +39,7 @@ and it instantly observes for updates of this property, being subscribed on prev
 In the module above, ICommand properties are initialized with special extra class called CommandDelegate. This class implements System `ICommand` interface and allows to store its object to call `execute` method in case, when it required
 (eg. button clicked).
 
+You possible to [download binaries](https://github.com/TheVer4edu/SuperCalculator/releases/tag/SuperCalculator) from github release or build your own from sources using "Fork" or "Clone" buttons.
+
 You can use this code for any purpose however, the author does not guarantee its performance and correct operation.
 Licensed under the GNU General Public License v3.0
